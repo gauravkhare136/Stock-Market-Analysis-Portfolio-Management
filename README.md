@@ -1,0 +1,1 @@
+The objective is to perform the Financial Technical Analysis & Risk Analysis of the stocks based on Historic Stock Performance of various sectors (Aviation, Technology, Healthcare, and Finance) like the Adjusted Closing Prices, Volumes of stocks traded on a particular day.  Recommend portfolio of stocks.
